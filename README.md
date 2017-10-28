@@ -1,1 +1,1 @@
-"# CV_feature_extract" 
+Harris corner detector & LBP feature extract function
